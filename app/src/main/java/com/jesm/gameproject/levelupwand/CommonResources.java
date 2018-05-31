@@ -22,6 +22,8 @@ public class CommonResources {
     static public void set(Context context, int scrW, int scrH) {
         makeBackground(context, scrW, scrH);
         makeSound(context);
+
+        
     }
 
     //-------------------
